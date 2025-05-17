@@ -1,0 +1,14 @@
+package com.klef.project.springboot;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class SprojectWApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(SprojectWApplication.class, args);
+		System.out.println("Application Initaiated without any error..!");
+	}
+
+}

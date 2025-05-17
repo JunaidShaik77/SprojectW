@@ -1,0 +1,5 @@
+package com.klef.project.springboot.repository;
+
+public class UserRepository {
+
+}
